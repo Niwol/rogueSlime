@@ -1,0 +1,29 @@
+PROJECT RogueSlime:
+
+ECS ?
+
+Rendering:
+    * Player (slime)
+    * Enemys
+    * Map
+    * UI
+    -> Shaders
+
+User input:
+    * Player controler
+    * Menu navigation
+
+AI:
+    * Enemy control
+
+Map creator/editor
+    * Editing
+    * Saving
+    * Loading
+
+Multiplayer:
+    * Local
+    * Online
+
+UI:
+    * Menus
